@@ -1,0 +1,22 @@
+# Environments
+learnenv/
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Others
+.DS_Store
+.idea/
+.vscode/
